@@ -1,5 +1,5 @@
 {
-  "name": "stackblitz-docs",
+  "name": "stackblitz-docs!",
   "version": "0.0.0",
   "scripts": {
     "build": "vitepress build",
