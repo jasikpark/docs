@@ -12,7 +12,7 @@ This page covers using pr.new to open, view, and contribute to any project throu
 
 <!--@include: ./parts/pr-new.md-->
 
-## How does pr.new work?
+## How does pr.new work???
 
 This short URL enables magical experiences by choosing just the right tools for the job.
 
